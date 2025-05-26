@@ -6,3 +6,14 @@ I'm an aspiring Data Scientist with a keen interest in databases, data visualiza
 - 🌱 I’m learning: Data visualization techniques and machine learning algorithms
 - 🤝 I’m looking to collaborate on: Data analysis and machine learning projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/baskaran0402/)
+
+## 🛠️ Skills
+
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Tools:** Jupyter Notebook, Git, GitHub
+- **Databases:** MySQL, PostgreSQL
+
+## 📊 GitHub Stats
+
+![Baskaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baskaran0402&show_icons=true&theme=radical)
