@@ -1,10 +1,8 @@
-👋 Hi, I’m @Baskaran0402
-👀 I’m interested in databases
-🌱 I’m currently learning data visualization and machine learning
-💞️ I’m looking to collaborate on data analysis projects
-📫 How to reach me: LinkedIn- baskaran0402
+# 👋 Hi there, I'm Baskaran
 
-<!---
-Baskaran0402/Baskaran0402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an aspiring Data Scientist with a keen interest in databases, data visualization, and machine learning. Currently, I'm honing my skills in data analysis and looking forward to collaborating on exciting projects.
+
+- 🔭 I’m currently working on: [Tesla-Stock-Movement-Analysis](https://github.com/Baskaran0402/Tesla-Stock-Movement-Analysis)
+- 🌱 I’m learning: Data visualization techniques and machine learning algorithms
+- 🤝 I’m looking to collaborate on: Data analysis and machine learning projects
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/baskaran0402/)
